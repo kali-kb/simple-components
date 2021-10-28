@@ -9,3 +9,26 @@
   background: white;
   text-align: center;
 }
+
+#red {
+  background: red;
+  color: white ;
+  border: none;
+  border-radius: 5px;
+}
+
+
+#green {
+  background: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+
+#blue {
+  background: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
