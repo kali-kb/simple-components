@@ -32,3 +32,18 @@
   border: none;
   border-radius: 5px;
 }
+
+#yellow {
+  background: yellow;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+
+#black {
+  background: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
